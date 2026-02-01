@@ -14,6 +14,7 @@ This repository serves as a centralized knowledge base for **AI Skills** (Contex
 
 | Skill Name | File | Description / Key Focus |
 | :--- | :--- | :--- |
+| **Market Sense (TOP 1)** | [Link](chrome-extension/chrome-market-sense-skill.md) | **S4 Philosophy**: "Pain Selection = 70% Victory". Validates ideas, identifies "Money Pains", and kills bad ideas early. |
 | **Monetization Core** | [Link](chrome-extension/chrome-extension-money-skills.md) | General strategy for converting users into revenue (MRR, Extension Factory). |
 | **Store SEO (S4)** | [Link](chrome-extension/chrome-store-seo-skill.md) | **S4 Philosophy**: "No User = No Money". Focuses on KW research, visual selling, and distribution. |
 | **Freemium & Paywall (S4)** | [Link](chrome-extension/chrome-freemium-paywall-skill.md) | **S4 Strategy**: Paywall triggers (Export, Bulk, Unlimited), locking output vs time. |
