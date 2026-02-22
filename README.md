@@ -32,6 +32,14 @@ This repository serves as a centralized knowledge base for **AI Skills** (Contex
 | **PPTX Handling** | [Link](documents/pptx-skill.md) | PowerPoint generation and manipulation. |
 | **Excel (XLSX)** | [Link](documents/xlsx-skill.md) | Spreadsheet data handling and formulas. |
 
+### 🤖 Automation & Scraping
+*Automating browsers and extracting data from the web.*
+
+| Skill Name | File | Description / Key Focus |
+| :--- | :--- | :--- |
+| **Playwright Mastery** | [Link](automation/play-wright.md) | **S4 Strategy**: Browser is the Ultimate API. Robust selectors, stealth mode, and anti-bot bypass. |
+
+
 ---
 
 ## 🚀 How to use
